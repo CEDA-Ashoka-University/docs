@@ -1,6 +1,7 @@
 site_name: CEDA Software & Systems Documentation
 site_description: Documentation for software tools and systems made publicly available by the Centre for Economic Data & Analysis, Ashoka University.
 site_author: Mayukh Nair via Mkdocs
+site_url: http://docs.ceda.ashoka.edu.in
 copyright: Centre for Economic Data & Analysis, Ashoka University
 theme:
     name: material
