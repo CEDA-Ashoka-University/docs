@@ -2,6 +2,8 @@
 ## Introduction
 This is a site built on [Mkdocs](https://www.mkdocs.org/) and hosted on GitHub Pages to document code as well as processes for CEDA's tools and systems, and to serve as a learning point for those trying to build similar systems.
 
+The site is hosted at [docs.ceda.ashoka.edu.in](https://docs.ceda.ashoka.edu.in).
+
 Please document all software tools and their processes here for efficient knowledge transfer.
 
 ## Contributing to these docs
