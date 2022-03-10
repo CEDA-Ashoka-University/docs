@@ -7,7 +7,9 @@ The site is hosted at [docs.ceda.ashoka.edu.in](https://docs.ceda.ashoka.edu.in)
 Please document all software tools and their processes here for efficient knowledge transfer.
 
 ## Contributing to these docs
-Mkdocs parses Markdown files using python-markdown to generate pages - you'll write your pages as .md files and save it in the `docs` folder. Any commit will trigger a rebuiid of the website using GitHub Actions (see `.github/workflows/deploy.yml`).
+Mkdocs parses Markdown files using python-markdown to generate pages - you'll write your pages as .md files and save it in the `docs` folder. Any commit to the `main` branch will trigger a rebuiid of the website using GitHub Actions (see `.github/workflows/deploy.yml`).
+
+Checkout the `main branch`, commit your .md files to the `docs` folder, and submit a Pull Request to merge into `main`.
 
 Please refer to [this cheatsheet](https://www.markdownguide.org/cheat-sheet/) for a quick overview of Markdown syntax.
 
